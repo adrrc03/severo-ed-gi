@@ -5,7 +5,8 @@
    ========================================================================== */
 html{
    background-color: aqua;
-   font-size: large;
+   font-size: medium;
+   align-items: center;
 }
 
 h1{
